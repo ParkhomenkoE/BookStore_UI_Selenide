@@ -8,6 +8,7 @@ https://demoqa.com/books
 
 It covers UI automation, API testing, BDD approach, and test management, simulating a real QA workflow.
 The project is split into multiple repositories for UI, API, and BDD testing.
+This project was created as part of QA automation training and demonstrates practical skills in test automation.
 
 ## Tech Stack
 
@@ -51,11 +52,11 @@ The project is split into multiple repositories for UI, API, and BDD testing.
 
 ## Project Structure
 
-* `pages` – Page Object classes
-* `tests` – Test classes
-* `utils` – Helper methods
-* `api` – API tests
-* `features` – Cucumber feature files
+- `pages` – Page Object classes  
+- `tests` – UI test classes  
+- `utils` – helper methods  
+
+API and BDD tests are located in separate repositories (see below)
 
 ## Related Repositories
 
@@ -64,7 +65,7 @@ https://github.com/ParkhomenkoE/BookStore_API_Gradle
 
 - BDD Testing:
 https://github.com/ParkhomenkoE/BookStore_Cucumber
-
+ 
 ## How to Run Tests
 
 ### UI tests
