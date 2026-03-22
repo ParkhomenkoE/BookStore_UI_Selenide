@@ -7,6 +7,7 @@ This project demonstrates end-to-end testing of a BookStore web application:
 https://demoqa.com/books
 
 It covers UI automation, API testing, BDD approach, and test management, simulating a real QA workflow.
+The project is split into multiple repositories for UI, API, and BDD testing.
 
 ## Tech Stack
 
@@ -56,6 +57,14 @@ It covers UI automation, API testing, BDD approach, and test management, simulat
 * `api` – API tests
 * `features` – Cucumber feature files
 
+## Related Repositories
+
+- API Testing:
+https://github.com/ParkhomenkoE/BookStore_API_Gradle
+
+- BDD Testing:
+https://github.com/ParkhomenkoE/BookStore_Cucumber
+
 ## How to Run Tests
 
 ### UI tests
@@ -76,5 +85,5 @@ https://docs.google.com/presentation/d/1NqXFxOTqGhxBmjMnyt6aV-NRQF3-kqut/edit?sl
 
 #  Author
 
-QA Automation Engineer (Junior level)
+Junior QA Automation Engineer (Java, Selenide, API Testing)
 Open to opportunities in Germany
